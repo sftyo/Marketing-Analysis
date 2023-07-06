@@ -49,7 +49,8 @@ Also, there are some features that have not been touch much, such as 'Country' f
 That means we still can improve the performance of the model, that is:
 1. Dig deeper on the 'Country' feature (Which country that will accept the offer? or to be more general we can make Which region will accept our offer?)
 2. Which product is a lot more successful?
-3. Best/Worse channels?
+3. Which channel are the best/worse one?
+4. Hyperparameter tuning of the model
 
 # Thank You
 
